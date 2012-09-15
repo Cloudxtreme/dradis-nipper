@@ -1,0 +1,6 @@
+NipperUpload
+============
+
+Takes a Nipper Studio (https://www.titania-security.com/nipperstudio) csv and uploads it to Dradis
+
+Copyright (c) 2012 [Marc Wickenden], released under the MIT license

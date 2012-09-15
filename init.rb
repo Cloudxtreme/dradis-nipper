@@ -1,0 +1,1 @@
+require 'nipper_upload'
